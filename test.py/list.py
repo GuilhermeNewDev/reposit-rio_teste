@@ -5,7 +5,7 @@ def main():
     print(lista_teste[0],lista_teste[3], lista_teste[4])
     
     
-    lista_aleatória = ["AB",45,"asas",645]
+    lista_aleatória = ["AB",45,"asas",645,22]
     print(lista_aleatória[0])
 
 main()
